@@ -1,7 +1,7 @@
 name: path_animator
 description: A flutter package to draw path with animation on the canvas
 version: 0.0.1
-repostitory: https://github.com/DevsOnFlutter/path_animator
+repository: https://github.com/DevsOnFlutter/path_animator
 
 environment:
   sdk: ">=2.16.1 <3.0.0"
